@@ -4,7 +4,7 @@ A real-time digital clock built with HTML, CSS, and JavaScript, styled as a retr
 
 Live Demo
 
-(Add your GitHub Pages link here once enabled, e.g. https://yourusername.github.io/digital-clock-js/)
+https://shadow12546-sketch.github.io/digital-clock/
 
 Features
 
